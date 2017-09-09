@@ -1,0 +1,2 @@
+The ESP8266 is a low-cost Wi-Fi chip with full TCP/IP stack and MCU (microcontroller unit) capability produced by Shanghai-based Chinese manufacturer, Espressif Systems.
+•	Detecting Intruders At Night Using ESP 8266 -  This project involves detecting intruders late at night using the ESP 8266 WiFi module.There is setup of an LDR and Proximity sensor attached to it to detect the change in the intensity of light and the ranging distance of a human intruder respectively. This is done via cloud computing , Ubidots.
